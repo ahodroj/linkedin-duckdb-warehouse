@@ -2,7 +2,7 @@
 Micro personal DWH for your LinkedIn data
 
 ## Dependencies
-LinkedIn account data (Connections.csv, invitations.csv, messages.csv) available on an S3/local MinIO endpoint, or local filesystem
+LinkedIn account data (Connections.csv, invitations.csv, messages.csv) available on an S3/local MinIO endpoint (**make sure to edit your credentials**), or local filesystem
 
 
 ## ETL LinkedIn account data into DuckDB
